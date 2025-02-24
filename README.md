@@ -50,6 +50,11 @@
    ![Teusxly GitHub stats](https://github-readme-stats.vercel.app/api?username=Teusxly&show_icons=true&theme=radical)
 
 
+
+   cODE = <marquee behavior="scroll" direction="left">"Me chamo Matheus"</marquee>
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teusxly/teusxly/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teusxly/teusxly/output/github-contribution-grid-snake-dark.svg">
