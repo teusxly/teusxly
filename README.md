@@ -50,10 +50,10 @@
    ![Teusxly GitHub stats](https://github-readme-stats.vercel.app/api?username=Teusxly&show_icons=true&theme=radical)
 
 
+<div>
+  <a href="https://github.com/teusxly/teusxly"> font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+my+name+is=matheus=Sampaio!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+"> </a>
 
-   cODE = <marquee behavior="scroll" direction="left">"Me chamo Matheus"</marquee>
-
-
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teusxly/teusxly/output/github-contribution-grid-snake-dark.svg">
