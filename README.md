@@ -27,7 +27,15 @@
   width="30px"
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-   />         
+   /> 
+    <img 
+   aling="left"
+  alt="Spring"
+  title="Spring"
+  width="30px"
+  style="padding-reght: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+  />
 <img 
   aling="left"
   alt="HTML"
@@ -51,16 +59,7 @@
   width="30px"
   style="padding-reght: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-     />
- <img 
-   aling="left"
-  alt="Spring"
-  title="Spring"
-  width="30px"
-  style="padding-reght: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-  />
-          
+     />          
           
   ## 📊 Estatísticas do GitHub:
   
