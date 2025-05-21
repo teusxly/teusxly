@@ -43,16 +43,8 @@
   width="30px"
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
+     />
  <img 
-    aling="left"
-  alt="Javascript"
-  title="Javascript"
-  width="30px"
-  style="padding-reght: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-   />
-   <img 
      aling="left"
   alt="Git"
   title="Git"
