@@ -13,6 +13,11 @@
 ## 🧑‍💻 linguagens e tecnologias:
 
  <img 
+   aling="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-reght: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
   />
    <img
@@ -51,10 +56,20 @@
    />
 
    <img 
+     aling="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-reght: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
      />
      
  <img 
+   aling="left"
+  alt="Spring"
+  title="Spring"
+  width="30px"
+  style="padding-reght: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
   />
           
