@@ -28,8 +28,6 @@
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
    />         
-
-
 <img 
   aling="left"
   alt="HTML"
@@ -54,7 +52,6 @@
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
    />
-
    <img 
      aling="left"
   alt="Git"
@@ -63,7 +60,6 @@
   style="padding-reght: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
      />
-     
  <img 
    aling="left"
   alt="Spring"
