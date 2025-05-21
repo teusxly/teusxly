@@ -12,6 +12,19 @@
 
 ## 🧑‍💻 linguagens e tecnologias:
 
+ <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+  />
+   <img
+   aling="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-reght: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+   />         
+
+
 <img 
   aling="left"
   alt="HTML"
@@ -36,15 +49,16 @@
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
    />
- <img
-   aling="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-reght: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-   /> 
 
+   <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+     />
+     
+ <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+  />
+          
+          
   ## 📊 Estatísticas do GitHub:
   
    ![Teusxly GitHub stats](https://github-readme-stats.vercel.app/api?username=Teusxly&show_icons=true&theme=radical)
