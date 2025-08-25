@@ -1,6 +1,6 @@
 # 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 
-**`desenvolvedor junior`**
+**`desenvolvedor Back-End`**
 
  Me chamo Matheus sampaio, tenho 18 anos e sou natural de Pernabuco. Atualmente estou cursando análise e desenvolvimento de sistemas na Unicesumar. sou apaixonado em tecnologias e compatilho meus conhecimentos através das minhas redes socias.
 
@@ -36,23 +36,7 @@
   style="padding-reght: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
   />
-  
-<img 
-  aling="left"
-  alt="HTML"
-  title="HTML5"
-  width="30px"
-  style="padding-reght: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-/>
-<img 
- aling="left"
-  alt="CSS"
-  title="CSS3"
-  width="30px"
-  style="padding-reght: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-     />
+
  <img 
      aling="left"
   alt="Git"
