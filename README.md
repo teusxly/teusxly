@@ -2,7 +2,7 @@
 
 **`desenvolvedor Back-End`**
 
- Me chamo Matheus sampaio, tenho 18 anos e sou natural de Pernabuco. Atualmente estou cursando análise e desenvolvimento de sistemas na Unicesumar. sou apaixonado em tecnologias e compatilho meus conhecimentos através das minhas redes socias.
+ Me chamo Matheus sampaio, tenho 19 anos e sou natural de Pernabuco. Atualmente estou cursando análise e desenvolvimento de sistemas na Unicesumar. sou apaixonado em tecnologias e compatilho meus conhecimentos através das minhas redes socias.
 
 ## 🌐 Redes sociais:
 
