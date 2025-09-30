@@ -1,4 +1,4 @@
-_# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
+## 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 
 **`desenvolvedor Back-End`**
 
@@ -10,35 +10,42 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teusxly_/)
 
 
-## 🧑‍💻 Linguagens de Programação
+<h3 style="font-family: Arial; font-size: 16px;">🧑‍💻 Linguagens de Programação</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40px" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>Java</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>Python</b></sub>
 </p>
 
-## 🌱 Framework e Biblioteca
+<h3 style="font-family: Arial; font-size: 16px;">🌱 Frameworks e Bibliotecas</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>Spring</b></sub>
 </p>
 
-## 🗄️ Banco de Dados
+<h3 style="font-family: Arial; font-size: 16px;">🗄️ Banco de Dados</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>MySQL</b></sub>
 </p>
 
-## ☁️ Cloud
+<h3 style="font-family: Arial; font-size: 16px;">☁️ Cloud</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>AWS</b></sub>
 </p>
 
-## 🛠️ Ferramentas
+<h3 style="font-family: Arial; font-size: 16px;">🛠️ Ferramentas</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40px" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40px" style="margin-right: 15px;"/>
-</p>://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
- />
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>Git</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px" style="margin-right: 10px;"/>
+  <sub><b>Postman</b></sub>
+</p>
+
   ## 📊 Estatísticas:
   
    ![Teusxly GitHub stats](https://github-readme-stats.vercel.app/api?username=Teusxly&show_icons=true&theme=radical)
@@ -52,4 +59,3 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 
 
 
-_
