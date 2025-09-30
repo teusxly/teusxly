@@ -8,65 +8,34 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sampaio-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teusxly_/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@teus4205)
 
-## 🧑‍💻 linguagens e tecnologias:
 
- <img 
-   aling="left"
-  alt="Python"
-  title="Python"
-  width="30px"
-  style="padding-reght: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-  />
-   <img
-   aling="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-reght: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-   /> 
-   <img
-    aling="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-reght: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-    />    
-   <img 
-    aling="left"
-  alt="AWS"
-  title="AWS"
-  width="30px"
-  style="padding-reght: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-     />        
-      <img 
-   aling="left"
-  alt="Spring"
-  title="Spring"
-  width="30px"
-  style="padding-reght: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-  />
-   <img 
-     aling="left"
-  alt="Git"
-  title="Git"
-  width="30px"
-  style="padding-reght: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-     />    
-      <img
-  aling="left"
-  alt="Postaman"
-  title="Postaman"
-  width="30px"
-  style="padding-reght: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+## 🧑‍💻 Linguagens de Programação
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40px" style="margin-right: 15px;"/>
+</p>
+
+## 🌱 Framework e Biblioteca
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40px" style="margin-right: 15px;"/>
+</p>
+
+## 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40px" style="margin-right: 15px;"/>
+</p>
+
+## ☁️ Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40px" style="margin-right: 15px;"/>
+</p>
+
+## 🛠️ Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40px" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40px" style="margin-right: 15px;"/>
+</p>://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
  />
           
           
