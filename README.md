@@ -44,7 +44,7 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
   style="padding-reght: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
      />        
-   <img 
+      <img 
    aling="left"
   alt="Spring"
   title="Spring"
@@ -52,7 +52,7 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
   style="padding-reght: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
   />
- <img 
+   <img 
      aling="left"
   alt="Git"
   title="Git"
@@ -60,7 +60,7 @@ _# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
   style="padding-reght: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
      />    
-<img
+      <img
   aling="left"
   alt="Postaman"
   title="Postaman"
