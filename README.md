@@ -33,7 +33,7 @@
 
 <h3 style="font-family: Arial; font-size: 16px;">☁️ Cloud</h3>
 <p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" style="margin-right: 10px; />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" style="margin-right: 10px;" />
   <sub><b>AWS</b></sub>
 </p>
 
