@@ -12,28 +12,28 @@
 
 <h3 style="font-family: Arial; font-size: 16px;">🧑‍💻 Linguagens de Programação</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>Java</b></sub>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>Python</b></sub>
 </p>
 
 <h3 style="font-family: Arial; font-size: 16px;">🌱 Frameworks e Bibliotecas</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>Spring</b></sub>
 </p>
 
 <h3 style="font-family: Arial; font-size: 16px;">🗄️ Banco de Dados</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>MySQL</b></sub>
 </p>
 
 <h3 style="font-family: Arial; font-size: 16px;">☁️ Cloud</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" style="margin-right: 10px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" style="margin-right: 10px; />
   <sub><b>AWS</b></sub>
 </p>
 
