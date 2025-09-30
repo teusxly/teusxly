@@ -39,10 +39,10 @@
 
 <h3 style="font-family: Arial; font-size: 16px;">🛠️ Ferramentas</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>Git</b></sub>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30px" style="margin-right: 10px;"/>
   <sub><b>Postman</b></sub>
 </p>
 
