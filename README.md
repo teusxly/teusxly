@@ -1,8 +1,8 @@
-# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
+_# 👋🏼hello, my name is Matheus Sampaio "Teusxly"
 
 **`desenvolvedor Back-End`**
 
- Me chamo Matheus sampaio, tenho 19 anos e sou natural de Pernabuco. Atualmente estou cursando análise e desenvolvimento de sistemas na Unicesumar. sou apaixonado em tecnologias e compatilho meus conhecimentos através das minhas redes socias.
+ Me chamo Matheus sampaio, tenho 19 anos e sou natural de Pernabuco. Atualmente estou cursando análise e desenvolvimento de sistemas na Unicesumar. sou fascinado pela area de desenvolvimento tecnológico e compatilho meus conhecimentos através das minhas redes socias.
 
 ## 🌐 Redes sociais:
 
@@ -28,7 +28,23 @@
   style="padding-reght: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
    /> 
-    <img 
+   <img
+    aling="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-reght: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />    
+   <img 
+    aling="left"
+  alt="AWS"
+  title="AWS"
+  width="30px"
+  style="padding-reght: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+     />        
+   <img 
    aling="left"
   alt="Spring"
   title="Spring"
@@ -36,7 +52,6 @@
   style="padding-reght: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
   />
-
  <img 
      aling="left"
   alt="Git"
@@ -44,9 +59,18 @@
   width="30px"
   style="padding-reght: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-     />          
+     />    
+<img
+  aling="left"
+  alt="Postaman"
+  title="Postaman"
+  width="30px"
+  style="padding-reght: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+ />
           
-  ## 📊 Estatísticas do GitHub:
+          
+  ## 📊 Estatísticas:
   
    ![Teusxly GitHub stats](https://github-readme-stats.vercel.app/api?username=Teusxly&show_icons=true&theme=radical)
 
@@ -59,3 +83,4 @@
 
 
 
+_
