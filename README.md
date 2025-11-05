@@ -52,7 +52,7 @@ Possuo experiência no desenvolvimento de **APIs REST**, integrações entre ser
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|------------|
-| [Sistema de Restaurante](https://github.com/teusxly/Sistema-de-restaurante) | Aplicação desenvolvida para gerenciar o funcionamento de um restaurante, incluindo cadastro de produtos, controle de pedidos e acompanhamento de status. O projeto simula um ambiente real de gestão, com integração de banco de dados e containers Docker para facilitar o deploy. | Java · Spring Boot · Docker |
+| [Sistema de Restaurante](https://github.com/teusxly/Sistema-de-restaurante) | Aplicação desenvolvida para gerenciar o funcionamento de um restaurante, incluindo cadastro de produtos, controle de pedidos e acompanhamento de status. O projeto simula um ambiente real de gestão, com integração de banco de dados e containers Docker para facilitar o deploy. | Java · Spring Boot · MySQL · Docker |
 | [Gerenciador de Lista de Produtos](https://github.com/teusxly/dslist-backend) | API REST que permite gerenciar uma lista de produtos, incluindo operações de cadastro, listagem, atualização e exclusão. Desenvolvido com boas práticas de arquitetura e persistência de dados, ideal para estudos de backend e integração com frontends. | Java · Spring Boot · PostgreSQL |
 
 
