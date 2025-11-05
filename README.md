@@ -48,6 +48,16 @@ Possuo experiência no desenvolvimento de **APIs REST**, integrações entre ser
 
 ---
 
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|------------|
+| [Sistema De Restaurante]([link](https://github.com/teusxly/Sistema-de-restaurante)) |  Sistema de restaurante para… | Java · Spring Boot · Docker |
+| [gerenciar uma lista de produtos]([link](https://github.com/teusxly/dslist-backend)) | Gerenciamento de lista de produtos | Java  · Spring Boot · PostgreSQL |
+
+
+
+
 ## 📊 Estatísticas:
   
 
